@@ -1,3 +1,6 @@
+NOTE to Myself: you can copy the already downloaded installassistant.pkg to the cache folder of Mist to use it.
+
+
 <!-- markdownlint-disable-next-line first-line-heading no-inline-html  -->
 <img align="left" width="128" height="128" src="README%20Resources/App%20Icon.png" alt="App Icon">
 
